@@ -1,0 +1,7 @@
+Learning to fix the code with exceptions is not easy
+
+try catch block
+
+throws keyword
+
+checked/unchecked exceptions
