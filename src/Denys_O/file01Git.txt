@@ -1,3 +1,7 @@
 /file 01
 
 how are you today ?
+
+added new github notes, just checking
+
+coding takes time
